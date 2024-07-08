@@ -1,6 +1,6 @@
 # Face Detection App React
 
-![dp](https://github.com/senethmendis/material-practice-threejs/blob/main/public/screenshot.PNG)
+![dp](https://github.com/senethmendis/material-practice-threejs/blob/main/public/bg.PNG)
 
 ### Built With
 
