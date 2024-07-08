@@ -1,6 +1,6 @@
 # Face Detection App React
 
-![dp](https://github.com/senethmendis/face-detection-react-app/blob/dev/public/Capture.PNG)
+![dp](https://github.com/senethmendis/material-practice-threejs/blob/main/public/screenshot.PNG)
 
 ### Built With
 
@@ -8,9 +8,11 @@ frameworks/libraries used for theproject..
 
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js?tab=readme-ov-file#getting-started-loading-models)
+- ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+✔ use the  tool menu to change the styles of the torus material
 
 ### Installation
 
