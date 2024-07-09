@@ -28,7 +28,7 @@ export const Model = () => {
         font="fonts/PPNeueMontreal-Bold.otf"
         position={[0, 0, -0.5]}
       >
-        Hello Worl
+       SENETH MENDIS
       </Text>
       <mesh ref={mesh} {...nodes.Torus002}>
         <MeshTransmissionMaterial {...materialProps} />
